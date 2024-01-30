@@ -126,7 +126,7 @@ INSERT INTO escuelas(nombre, direccion)
 VALUES ('Instituto Tecnologico de Ciudad Madero', '1');
 
 INSERT INTO personas(nombre, apellido_paterno, apellido_materno, fecha_nacimiento, curp, email, clave, direccion, escuela)
-VALUES ('Andres', 'Ramirez', 'Mendoza', '22.12.2000', 'RAMC001222HTSMNSA3', 'ramirezmendoza482@gmail.com', 'kbdkjajd', 1, 1);
+VALUES ('Andres', 'Ramirez', 'Mendoza', '12.2.1995', 'PRUEBA', 'ramirezmendoza482@gmail.com', 'prueba', 1, 1);
 
 INSERT INTO arboles(altura, inclinacion, perimetro, indice_supervivencia, disponible, direccion, especie)
 VALUES ('2m', '2m', '1.3m', 7.4, TRUE, 1, 1);
