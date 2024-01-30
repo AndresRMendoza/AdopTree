@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diseño y modelado de una Base de datos.
+# Diseño y modelado de una base de datos.
 
 </div>
 
