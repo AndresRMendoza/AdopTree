@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diseño y modelado de una base de datos.
+# DISEÑO Y MODELADO DE UNA BASE DE DATOS.
 
 </div>
 
@@ -12,5 +12,13 @@ Normalización:
 - 2FN (Todos los datos deben depender funcionalmente de la llave primaria).
 - 3FN (Eliminación de dependencias transitivas).
 
--Sooma.
+<div align="center">
+
+### Diagrama entidad relación
+
+</div>
+
+![Diagrama entidad relación](./AdopTree.jpg)
+
+-Andrés Mendoza.
 
